@@ -21,7 +21,7 @@ public class Test {
         employee.setSalary(16000);
         employee.setDepartmentId(50);
         employee.setHireDate(new Date());
-
+//sc/
         System.out.println(db.insert(employee));
     }
 }
